@@ -23,7 +23,7 @@
     "@babel/parser": "^7.16.8",
     "electron-builder": "^22.14.5"
   },
-  "main": "src/main.js",
+  "main": "src/start-electron.js",
   "homepage": "./",
   "scripts": {
     "start": "nf start -p 3000",

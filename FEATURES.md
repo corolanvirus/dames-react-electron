@@ -1,0 +1,20 @@
+- add viteJS for a rapid build ❌
+- dotenv ❌
+- axios/fetch ❌
+- loader quand fetch gros spinner ❌
+- navigation et routing ❌
+- bases de react ❌
+- daisy ui ❌
+- aller en profondeur avec un fetch puis axios ❌
+- découpage component ❌
+- page 404 ❌
+- electron ✅
+- construire un backend ❌
+- gérer un authentification ❌
+- utiliser express js ❌
+- utiliser redux ❌
+- dockerizer les projets ❌
+- github action ❌
+- chartjs ❌
+- mono repo et deploy heroku ❌
+
