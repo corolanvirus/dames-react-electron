@@ -1,5 +1,7 @@
 
 import Header from '../../components/Header/Header';
+import Map from '../../components/Map/Map';
+
 
 
 function Dames() {
@@ -7,6 +9,7 @@ function Dames() {
         <div>
             <Header />
             <p>ici on aura le jeu de dames</p>
+            <Map />
         </div>
     );
 }
