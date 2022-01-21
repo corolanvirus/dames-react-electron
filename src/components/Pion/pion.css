@@ -1,0 +1,19 @@
+.Pion{
+    height: 25px;
+    width: 25px;
+    background-color: green ;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.Pion:hover{
+    background-color: yellow;
+}
+
+.rouge{
+    background-color:red ;
+}
+
+.bleu{
+    background-color:blue ;
+}
